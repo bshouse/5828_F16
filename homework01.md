@@ -1,8 +1,8 @@
 #####Define the term essential difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an essential difficulty.
-Difficulties inherent or intrinsic in the nature of software - 
+Essential Difficulties inherent or intrinsic in the nature of software
 
 #####Define the term accidental difficulties as it is used by Brooks. Provide background and context with your answer and at least one example of an accidental difficulty.
-Accidents: difficulties related to the production of software - Compiler troubles, code format standards, Editor, IDE, etc
+Accidental difficulties related to the production of software - Compiler troubles, code format standards, Editor, IDE, etc
 
 
 #####List and briefly describe the four essential difficulties of developing software systems that Brooks identifies. Provide additional examples of each type of the four essential difficulties.
